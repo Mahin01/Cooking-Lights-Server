@@ -1,0 +1,255 @@
+[
+    {
+    "chefId": 1,
+    "chefName": "Ahmet Yılmaz",
+    "recipes": [
+      {
+        "recipeName": "Lahmacun",
+        "ingredients": [
+          "Ground lamb or beef",
+          "Onion",
+          "Tomato paste",
+          "Parsley",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Mix the ground meat with onion, tomato paste, parsley, and spices. Roll out the dough and spread the meat mixture over it. Bake in a hot oven for a few minutes until the crust is crispy.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Tavuk Şiş",
+        "ingredients": [
+          "Chicken breast",
+          "Bell pepper",
+          "Onion",
+          "Olive oil",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Marinate the chicken breast in olive oil, lemon juice, and spices. Cut the bell pepper and onion into chunks and skewer with the chicken. Grill until the chicken is cooked through and the vegetables are charred.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Baklava",
+        "ingredients": [
+          "Phyllo dough",
+          "Walnuts",
+          "Sugar",
+          "Butter",
+          "Honey"
+        ],
+        "cookingMethod": "Layer the phyllo dough with a mixture of ground walnuts and sugar. Brush each layer with melted butter. Bake until golden brown and crisp. Drizzle with honey syrup while still warm.",
+        "rating": 4.9
+      }
+    ]
+  },
+    {
+    "chefId": 2,
+    "chefName": "Fatma Aksoy",
+    "recipes": [
+      {
+        "recipeName": "Lahmacun",
+        "ingredients": [
+          "Ground lamb or beef",
+          "Onion",
+          "Tomato paste",
+          "Parsley",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Mix the ground meat with onion, tomato paste, parsley, and spices. Roll out the dough and spread the meat mixture over it. Bake in a hot oven for a few minutes until the crust is crispy.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Tavuk Şiş",
+        "ingredients": [
+          "Chicken breast",
+          "Bell pepper",
+          "Onion",
+          "Olive oil",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Marinate the chicken breast in olive oil, lemon juice, and spices. Cut the bell pepper and onion into chunks and skewer with the chicken. Grill until the chicken is cooked through and the vegetables are charred.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Baklava",
+        "ingredients": [
+          "Phyllo dough",
+          "Walnuts",
+          "Sugar",
+          "Butter",
+          "Honey"
+        ],
+        "cookingMethod": "Layer the phyllo dough with a mixture of ground walnuts and sugar. Brush each layer with melted butter. Bake until golden brown and crisp. Drizzle with honey syrup while still warm.",
+        "rating": 4.9
+      }
+    ]
+  },
+    {
+    "chefId": 3,
+    "chefName": "Mehmet Kara",
+    "recipes": [
+      {
+        "recipeName": "Lahmacun",
+        "ingredients": [
+          "Ground lamb or beef",
+          "Onion",
+          "Tomato paste",
+          "Parsley",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Mix the ground meat with onion, tomato paste, parsley, and spices. Roll out the dough and spread the meat mixture over it. Bake in a hot oven for a few minutes until the crust is crispy.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Tavuk Şiş",
+        "ingredients": [
+          "Chicken breast",
+          "Bell pepper",
+          "Onion",
+          "Olive oil",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Marinate the chicken breast in olive oil, lemon juice, and spices. Cut the bell pepper and onion into chunks and skewer with the chicken. Grill until the chicken is cooked through and the vegetables are charred.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Baklava",
+        "ingredients": [
+          "Phyllo dough",
+          "Walnuts",
+          "Sugar",
+          "Butter",
+          "Honey"
+        ],
+        "cookingMethod": "Layer the phyllo dough with a mixture of ground walnuts and sugar. Brush each layer with melted butter. Bake until golden brown and crisp. Drizzle with honey syrup while still warm.",
+        "rating": 4.9
+      }
+    ]
+  },
+    {
+    "chefId": 4,
+    "chefName": "Ayşe Uçar",
+    "recipes": [
+      {
+        "recipeName": "Lahmacun",
+        "ingredients": [
+          "Ground lamb or beef",
+          "Onion",
+          "Tomato paste",
+          "Parsley",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Mix the ground meat with onion, tomato paste, parsley, and spices. Roll out the dough and spread the meat mixture over it. Bake in a hot oven for a few minutes until the crust is crispy.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Tavuk Şiş",
+        "ingredients": [
+          "Chicken breast",
+          "Bell pepper",
+          "Onion",
+          "Olive oil",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Marinate the chicken breast in olive oil, lemon juice, and spices. Cut the bell pepper and onion into chunks and skewer with the chicken. Grill until the chicken is cooked through and the vegetables are charred.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Baklava",
+        "ingredients": [
+          "Phyllo dough",
+          "Walnuts",
+          "Sugar",
+          "Butter",
+          "Honey"
+        ],
+        "cookingMethod": "Layer the phyllo dough with a mixture of ground walnuts and sugar. Brush each layer with melted butter. Bake until golden brown and crisp. Drizzle with honey syrup while still warm.",
+        "rating": 4.9
+      }
+    ]
+  },
+    {
+    "chefId": 5,
+    "chefName": "Osman Güler",
+    "recipes": [
+      {
+        "recipeName": "Lahmacun",
+        "ingredients": [
+          "Ground lamb or beef",
+          "Onion",
+          "Tomato paste",
+          "Parsley",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Mix the ground meat with onion, tomato paste, parsley, and spices. Roll out the dough and spread the meat mixture over it. Bake in a hot oven for a few minutes until the crust is crispy.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Tavuk Şiş",
+        "ingredients": [
+          "Chicken breast",
+          "Bell pepper",
+          "Onion",
+          "Olive oil",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Marinate the chicken breast in olive oil, lemon juice, and spices. Cut the bell pepper and onion into chunks and skewer with the chicken. Grill until the chicken is cooked through and the vegetables are charred.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Baklava",
+        "ingredients": [
+          "Phyllo dough",
+          "Walnuts",
+          "Sugar",
+          "Butter",
+          "Honey"
+        ],
+        "cookingMethod": "Layer the phyllo dough with a mixture of ground walnuts and sugar. Brush each layer with melted butter. Bake until golden brown and crisp. Drizzle with honey syrup while still warm.",
+        "rating": 4.9
+      }
+    ]
+  },
+    {
+    "chefId": 6,
+    "chefName": "Seda Şimşek",
+    "recipes": [
+      {
+        "recipeName": "Lahmacun",
+        "ingredients": [
+          "Ground lamb or beef",
+          "Onion",
+          "Tomato paste",
+          "Parsley",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Mix the ground meat with onion, tomato paste, parsley, and spices. Roll out the dough and spread the meat mixture over it. Bake in a hot oven for a few minutes until the crust is crispy.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Tavuk Şiş",
+        "ingredients": [
+          "Chicken breast",
+          "Bell pepper",
+          "Onion",
+          "Olive oil",
+          "Lemon juice"
+        ],
+        "cookingMethod": "Marinate the chicken breast in olive oil, lemon juice, and spices. Cut the bell pepper and onion into chunks and skewer with the chicken. Grill until the chicken is cooked through and the vegetables are charred.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Baklava",
+        "ingredients": [
+          "Phyllo dough",
+          "Walnuts",
+          "Sugar",
+          "Butter",
+          "Honey"
+        ],
+        "cookingMethod": "Layer the phyllo dough with a mixture of ground walnuts and sugar. Brush each layer with melted butter. Bake until golden brown and crisp. Drizzle with honey syrup while still warm.",
+        "rating": 4.9
+      }
+    ]
+  }
+]
+  
