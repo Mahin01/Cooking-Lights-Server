@@ -2,7 +2,7 @@
     {
       "id": 1,
       "chefPictureUrl": "https://example.com/chef1.jpg",
-      "chefName": "Ahmet Yılmaz",
+      "chefName": "Ahmet Yilmaz",
       "yearsOfExperience": 15,
       "numRecipes": 50,
       "numLikes": 1000,
