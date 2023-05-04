@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "chefPictureUrl": "https://example.com/chef1.jpg",
+      "chefName": "Ahmet Yılmaz",
+      "yearsOfExperience": 15,
+      "numRecipes": 50,
+      "numLikes": 1000,
+      "shortDescription": "Ahmet Yılmaz is a highly skilled chef with over 15 years of experience. He specializes in traditional Turkish dishes and is known for his attention to detail and use of fresh, local ingredients."
+    },
+    {
+      "id": 2,
+      "chefPictureUrl": "https://example.com/chef2.jpg",
+      "chefName": "Fatma Aksoy",
+      "yearsOfExperience": 20,
+      "numRecipes": 75,
+      "numLikes": 2000,
+      "shortDescription": "Fatma Aksoy is a master chef with over 20 years of experience. She has a passion for creating unique flavor combinations and is known for her use of spices and herbs to enhance the natural flavors of her dishes."
+    },
+    {
+      "id": 3,
+      "chefPictureUrl": "https://example.com/chef3.jpg",
+      "chefName": "Mehmet Kara",
+      "yearsOfExperience": 10,
+      "numRecipes": 30,
+      "numLikes": 500,
+      "shortDescription": "Mehmet Kara is a talented chef with a focus on simple, yet delicious dishes. He believes that the best flavors come from using fresh, high-quality ingredients and uses traditional Turkish cooking techniques to create his dishes."
+    },
+    {
+      "id": 4,
+      "chefPictureUrl": "https://example.com/chef4.jpg",
+      "chefName": "Ayşe Uçar",
+      "yearsOfExperience": 12,
+      "numRecipes": 40,
+      "numLikes": 800,
+      "shortDescription": "Ayşe Uçar is a creative chef with a flair for experimentation. She is constantly pushing the boundaries of traditional Turkish cuisine and loves to incorporate international flavors and techniques into her dishes."
+    },
+    {
+      "id": 5,
+      "chefPictureUrl": "https://example.com/chef5.jpg",
+      "chefName": "Osman Güler",
+      "yearsOfExperience": 18,
+      "numRecipes": 60,
+      "numLikes": 1500,
+      "shortDescription": "Osman Güler is a seasoned chef with a wealth of experience. He has a passion for using fresh, seasonal ingredients and is known for his ability to create dishes that are both simple and elegant."
+    },
+    {
+      "id": 6,
+      "chefPictureUrl": "https://example.com/chef6.jpg",
+      "chefName": "Seda Şimşek",
+      "yearsOfExperience": 8,
+      "numRecipes": 25,
+      "numLikes": 400,
+      "shortDescription": "Seda Şimşek is a rising star in the culinary world. She has a fresh perspective on traditional Turkish cuisine and loves to experiment with different ingredients and techniques to create unique, flavorful dishes."
+    }
+  ]
+  
+  
