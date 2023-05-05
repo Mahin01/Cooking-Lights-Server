@@ -26,6 +26,12 @@ app.get("/chefsData/:id", (req, res) => {
   res.send(individualChefData);
 });
 
+app.get("/chefs-recipe/:id", (req, res) => {
+    const id = parseInt(req.params.id);
+    const individualChefRecipe = chefRecipe.find((data) => data.chefId === id);
+    res.send(individualChefRecipe);
+});
+
 app.listen(port, () => {
   console.log(`Cooking Lights running on port: ${port}`);
 });
